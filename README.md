@@ -29,7 +29,7 @@ All ten manual test cases were automated using **Cypress**. Each test validates 
 
 ## 🧠 About the Tests
 
-These tests were initially generated with AI (ChatGPT) to provide a starting point for the test structure and logic.
+These tests were initially generated with AI (ChatGPT) to provide a starting point for the test structure and logic. *I am not a native programmer in JavaScript. I know Python and Java. 
 
 However, significant manual problem-solving and debugging were required to get them fully working — including refining selectors, restructuring test steps, and resolving edge cases.
 
