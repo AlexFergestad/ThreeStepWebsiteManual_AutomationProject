@@ -79,5 +79,8 @@ When the GUI opens up, select "E2E Testing".
 Then click "Start E2E Testing in Chrome".
 Then click on "3stepsports.cy.js".
 
+You can also run the tests in the terminal by entering in "npx cypress run".
+Once the tests are done, a video will appear and there will be a screenshot of the first test that failed.
+
 * I used Cypress version 12.4.0
 
