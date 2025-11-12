@@ -27,6 +27,16 @@ Ten manual test cases were first written and tracked in **Jira**, covering user 
 
 All ten manual test cases were automated using **Cypress**. Each test validates a key part of the website’s user experience.
 
+## 🧠 About the Tests
+
+These tests were initially generated with AI (ChatGPT) to provide a starting point for the test structure and logic.
+
+However, significant manual problem-solving and debugging were required to get them fully working — including refining selectors, restructuring test steps, and resolving edge cases.
+
+To identify and capture the right selectors for elements, the Cypress Selector Playground tool (available in Cypress version 12.4.0) was used.
+
+You can open it in the Test Runner to easily grab element selectors for your tests.
+
 ### ✅ Automated Test Coverage
 
 1. **Navigation Bar (Sports → Basketball)** – Verifies navigation works via dropdown.  
